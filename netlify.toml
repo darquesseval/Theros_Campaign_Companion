@@ -1,0 +1,12 @@
+[build]
+  command = "bun run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# SPA fallback: any unknown path serves index.html so the client router can handle it.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
