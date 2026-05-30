@@ -6718,36 +6718,6 @@
     "description": "Wool blanket sized for a horse."
   },
   {
-    "name": "Trained Hawk (sparrowhawk)",
-    "category": "Falconry",
-    "vendor": "falconry",
-    "cost": {
-      "normal": "25 gp",
-      "cheap": "18.75 gp",
-      "expensive": "37.5 gp"
-    },
-    "cost_cp": {
-      "normal": 2500,
-      "cheap": 1875,
-      "expensive": 3750
-    },
-    "limitedStock": false,
-    "ruralLocale": true,
-    "urbanLocale": true,
-    "premiumLocale": true,
-    "id": "theros_b9c8b299aa",
-    "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
-    "description": "Small hunting hawk. Brings back rabbits and grouse. Good for first-time falconers."
-  },
-  {
     "name": "Trained Falcon",
     "category": "Falconry",
     "vendor": "falconry",
@@ -6776,36 +6746,6 @@
       "premiumLocale"
     ],
     "description": "Theros peregrine falcon. Pinpoint stoop and reliable recall. The hoplite scout's eye in the sky."
-  },
-  {
-    "name": "Trained Hunting Hawk (large)",
-    "category": "Falconry",
-    "vendor": "falconry",
-    "cost": {
-      "normal": "80 gp",
-      "cheap": "60 gp",
-      "expensive": "120 gp"
-    },
-    "cost_cp": {
-      "normal": 8000,
-      "cheap": 6000,
-      "expensive": 12000
-    },
-    "limitedStock": true,
-    "ruralLocale": true,
-    "urbanLocale": true,
-    "premiumLocale": true,
-    "id": "theros_8fb7d6024a",
-    "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
-    "description": "Takes hares and foxes. Heavy on the wrist."
   },
   {
     "name": "Trained Owl (messenger)",
@@ -6923,7 +6863,7 @@
     "description": "Thick leather. Saves the wrist from talons."
   },
   {
-    "name": "Hawking Hood",
+    "name": "Falcon Hood",
     "category": "Falconry",
     "vendor": "falconry",
     "cost": {
@@ -7100,7 +7040,7 @@
       "urbanLocale",
       "premiumLocale"
     ],
-    "description": "For small hawks. Wicker with a bronze hinge."
+    "description": "For small birds. Wicker with a bronze hinge."
   },
   {
     "name": "Bird Cage (ornate, polis)",
@@ -7159,7 +7099,7 @@
       "urbanLocale",
       "premiumLocale"
     ],
-    "description": "5 sp. Fresh prey for a single hawk for a week."
+    "description": "5 sp. Fresh prey for a single falcon for a week."
   },
   {
     "name": "Bag of Smoked Quail (feed)",
@@ -7189,7 +7129,7 @@
       "urbanLocale",
       "premiumLocale"
     ],
-    "description": "Travel feed. Keeps a hawk healthy for two weeks."
+    "description": "Travel feed. Keeps a falcon healthy for two weeks."
   },
   {
     "name": "Falconer's Whistle (bronze)",
@@ -7279,20 +7219,6 @@
     ],
     "description": "A polis scribe's guide. Grants advantage on Animal Handling checks with raptors after one week of study."
   },
-  {
-    "name": "Trained Hawk's Egg (unhatched)",
-    "category": "Falconry",
-    "vendor": "falconry",
-    "cost": {
-      "normal": "15 gp",
-      "cheap": "11.25 gp",
-      "expensive": "22.5 gp"
-    },
-    "cost_cp": {
-      "normal": 1500,
-      "cheap": 1125,
-      "expensive": 2250
-    },
     "limitedStock": true,
     "ruralLocale": true,
     "urbanLocale": true,
