@@ -1,6 +1,13 @@
 [build]
   command = "bun run build"
-  publish = "dist"
+  publish = "dist/client"
 
 [build.environment]
   NODE_VERSION = "20"
+
+[functions]
+  directory = "netlify/functions"
+  # Ship the prebuilt server bundle alongside the function so its dynamic
+  # imports (./_libs/..., ./_ssr/...) resolve at runtime.
+  included_files = ["dist/server/**"]
+  node_bundler = "esbuild"

@@ -19,14 +19,7 @@
     "premiumLocale": true,
     "id": "theros_6ccbee0ea9",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Bronze censer that burns olive oil in a brilliant white flame. Sheds bright light 15 ft. during a religious ceremony."
   },
   {
@@ -49,14 +42,7 @@
     "premiumLocale": true,
     "id": "theros_c0c20f55b3",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "A polished sliver of deep-sea coral. Worshippers carry it for safe passage across open water; said to calm rough swells when tossed overboard."
   },
   {
@@ -79,14 +65,7 @@
     "premiumLocale": true,
     "id": "theros_ccc6f8e170",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Black bronze coin placed on the tongue of the dead so the Returned can pay their passage. Funerary use only — buying anything else with it is taboo."
   },
   {
@@ -109,14 +88,7 @@
     "premiumLocale": true,
     "id": "theros_294a9cde73",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Bowstring spun from the sinew of a beast slain in fair hunt. Imparts a sense of true aim — once per long rest, reroll a single missed bow attack."
   },
   {
@@ -139,14 +111,7 @@
     "premiumLocale": true,
     "id": "theros_c6a3e5c98c",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Bronze-leafed laurel awarded to victors. Worn into battle, it grants advantage on saves against being frightened for 1 hour."
   },
   {
@@ -169,13 +134,7 @@
     "premiumLocale": true,
     "id": "theros_ccfe09da67",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "urbanLocale", "premiumLocale"],
     "description": "Sealed iron vial containing a single never-cooling forge ember. Ignites tinder instantly; shatter to deal 1d4 fire to one creature."
   },
   {
@@ -198,14 +157,7 @@
     "premiumLocale": true,
     "id": "theros_e648c11165",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Wreath of wheat, olive, and grape. Hung above a doorway, it blesses one meal per day so it counts as a feast for morale."
   },
   {
@@ -228,13 +180,7 @@
     "premiumLocale": true,
     "id": "theros_39cee5ea6e",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "urbanLocale", "premiumLocale"],
     "description": "Bitter green ointment. Grants advantage on the next saving throw against poison if applied within 1 minute."
   },
   {
@@ -257,12 +203,7 @@
     "premiumLocale": true,
     "id": "theros_f77db4cd3a",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "premiumLocale"],
     "description": "Black bronze tag stamped with the bull-mask of Mogis. Carriers feel a slow rage build; useful for swaying minotaur kin, dangerous to bear long."
   },
   {
@@ -285,12 +226,7 @@
     "premiumLocale": true,
     "id": "theros_16775b4930",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "premiumLocale"],
     "description": "Half-mask of mirrored silver. Wearer gains advantage on Deception checks made while their identity is concealed."
   },
   {
@@ -313,12 +249,7 @@
     "premiumLocale": true,
     "id": "theros_4c688e4bdb",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "premiumLocale"],
     "description": "Smoke-tinted lens framed in starwood. Looking through it, the user can faintly see the constellations even in daylight."
   },
   {
@@ -341,13 +272,7 @@
     "premiumLocale": true,
     "id": "theros_21db3b5bb0",
     "source_group": "theros",
-    "tags": [
-      "temple_faith_supplies",
-      "Temple Supplies",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["temple_faith_supplies", "Temple Supplies", "theros", "urbanLocale", "premiumLocale"],
     "description": "Bracelet of three colored threads — red, gold, black. The wearer may reroll one d20 once per week, but Klothys takes note."
   },
   {
@@ -370,13 +295,7 @@
     "premiumLocale": true,
     "id": "theros_78ae753bab",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potion",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potion", "theros", "urbanLocale", "premiumLocale"],
     "description": "Glass phial of swirling violet vapor. Released, it fills a 10-ft. cube with starlit fog (lightly obscured) for 1 minute."
   },
   {
@@ -399,14 +318,7 @@
     "premiumLocale": true,
     "id": "theros_c682785880",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potion",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potion", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Thick golden honey from the Setessan hives. Acts as 1 use of a healer's kit and restores 1d4+1 hp when eaten."
   },
   {
@@ -429,12 +341,7 @@
     "premiumLocale": true,
     "id": "theros_8e1ae36aa1",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potion",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potion", "theros", "premiumLocale"],
     "description": "Foul-smelling brown tonic. Grants advantage on Strength (Athletics) checks for 10 minutes; drinker is poisoned for 1 hour after."
   },
   {
@@ -457,14 +364,7 @@
     "premiumLocale": true,
     "id": "theros_e331796ef2",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potion",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potion", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Salt-and-bone powder. A 10-ft. circle drawn with it cannot be crossed by Returned (zombies) for 1 hour."
   },
   {
@@ -487,12 +387,7 @@
     "premiumLocale": true,
     "id": "theros_d2694ccd1a",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potion",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potion", "theros", "premiumLocale"],
     "description": "Crimson elixir distilled from hydra venom. The drinker regains 1 hp at the start of each of their turns for 1 minute; ends if reduced to 0."
   },
   {
@@ -515,12 +410,7 @@
     "premiumLocale": true,
     "id": "theros_e457114a5c",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potion",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potion", "theros", "premiumLocale"],
     "description": "Pale drops squeezed from a slain gorgon's tear duct. Grants the drinker advantage on saves vs. petrification for 24 hours."
   },
   {
@@ -543,14 +433,7 @@
     "premiumLocale": true,
     "id": "theros_6c3684dd4e",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potion",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potion", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Cold-pressed sacred olive oil. Quality cooking oil; blessed bottles also count as holy oil for funerary rites."
   },
   {
@@ -573,14 +456,7 @@
     "premiumLocale": true,
     "id": "theros_4056689c77",
     "source_group": "theros",
-    "tags": [
-      "blacksmith_armory",
-      "Martial Weapon",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["blacksmith_armory", "Martial Weapon", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Classic xiphos of beaten bronze. 1d6 slashing, light, finesse. Standard polis-issue sidearm."
   },
   {
@@ -603,13 +479,7 @@
     "premiumLocale": true,
     "id": "theros_f72328b5fc",
     "source_group": "theros",
-    "tags": [
-      "blacksmith_armory",
-      "Martial Weapon",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["blacksmith_armory", "Martial Weapon", "theros", "urbanLocale", "premiumLocale"],
     "description": "Steel gauntlet tipped with leonin-forged claws. Unarmed strikes deal 1d6 slashing."
   },
   {
@@ -632,13 +502,7 @@
     "premiumLocale": true,
     "id": "theros_354dc6c29a",
     "source_group": "theros",
-    "tags": [
-      "blacksmith_armory",
-      "Martial Weapon",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["blacksmith_armory", "Martial Weapon", "theros", "urbanLocale", "premiumLocale"],
     "description": "Massive double-bitted axe sized for a Mogis-touched minotaur. 1d12 slashing, heavy, two-handed. Requires Str 15 to wield without disadvantage."
   },
   {
@@ -661,12 +525,7 @@
     "premiumLocale": true,
     "id": "theros_f0c0b05ee2",
     "source_group": "theros",
-    "tags": [
-      "blacksmith_armory",
-      "Martial Weapon",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["blacksmith_armory", "Martial Weapon", "theros", "premiumLocale"],
     "description": "Sun-blessed bronze spear with a gilded haft. 1d6 piercing (1d8 two-handed), thrown 20/60. Sheds dim light 5 ft."
   },
   {
@@ -689,12 +548,7 @@
     "premiumLocale": true,
     "id": "theros_c3685db5d6",
     "source_group": "theros",
-    "tags": [
-      "blacksmith_armory",
-      "Shield",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["blacksmith_armory", "Shield", "theros", "premiumLocale"],
     "description": "Round bronze shield embossed with the city's sigil. +2 AC. Polished mirror surface grants advantage on saves vs. a gorgon's gaze (one save only)."
   },
   {
@@ -717,14 +571,7 @@
     "premiumLocale": true,
     "id": "theros_5c82f91bd1",
     "source_group": "theros",
-    "tags": [
-      "blacksmith_armory",
-      "Shield",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["blacksmith_armory", "Shield", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Heavy round hoplon used by phalanx lines. +2 AC. Locks with adjacent allies' shields — provides half cover to one ally beside you."
   },
   {
@@ -747,13 +594,7 @@
     "premiumLocale": true,
     "id": "theros_24f4321f84",
     "source_group": "theros",
-    "tags": [
-      "blacksmith_armory",
-      "Medium Armor",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["blacksmith_armory", "Medium Armor", "theros", "urbanLocale", "premiumLocale"],
     "description": "Sculpted bronze breastplate of Akros, fitted to the wearer. AC 14 + Dex (max 2). Medium armor, 20 lb."
   },
   {
@@ -776,13 +617,7 @@
     "premiumLocale": true,
     "id": "theros_1db701568a",
     "source_group": "theros",
-    "tags": [
-      "fletcher_bowyer",
-      "Martial Weapon",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["fletcher_bowyer", "Martial Weapon", "theros", "urbanLocale", "premiumLocale"],
     "description": "Tall recurve longbow shaped for centaur draw. 1d8 piercing, range 150/600, heavy, two-handed."
   },
   {
@@ -805,14 +640,7 @@
     "premiumLocale": true,
     "id": "theros_c19a48b638",
     "source_group": "theros",
-    "tags": [
-      "fletcher_bowyer",
-      "Simple Weapon",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["fletcher_bowyer", "Simple Weapon", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Shortbow strung with Nylea-blessed sinew. 1d6 piercing, range 80/320. Animal targets have disadvantage on saves vs. the wielder's hunt spells."
   },
   {
@@ -835,13 +663,7 @@
     "premiumLocale": true,
     "id": "theros_2f473355b9",
     "source_group": "theros",
-    "tags": [
-      "fletcher_bowyer",
-      "Ammunition",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["fletcher_bowyer", "Ammunition", "theros", "urbanLocale", "premiumLocale"],
     "description": "Dozen arrows fletched with stormcrow feathers. Ignore the disadvantage from long range while it is windy or storming."
   },
   {
@@ -864,14 +686,7 @@
     "premiumLocale": true,
     "id": "theros_7dd21966bf",
     "source_group": "theros",
-    "tags": [
-      "fletcher_bowyer",
-      "Adventuring Gear",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["fletcher_bowyer", "Adventuring Gear", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "War quiver holding 20 arrows and 4 javelins. Drawing an arrow is part of the attack."
   },
   {
@@ -894,14 +709,7 @@
     "premiumLocale": true,
     "id": "theros_0c44ae7d37",
     "source_group": "theros",
-    "tags": [
-      "leatherworker",
-      "Light Armor",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["leatherworker", "Light Armor", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Light leather vest of supple satyr hide. AC 11 + Dex. Grants advantage on Performance checks involving dance."
   },
   {
@@ -924,13 +732,7 @@
     "premiumLocale": true,
     "id": "theros_a118abb1f6",
     "source_group": "theros",
-    "tags": [
-      "leatherworker",
-      "Adventuring Gear",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["leatherworker", "Adventuring Gear", "theros", "urbanLocale", "premiumLocale"],
     "description": "Bracers carved from bleached Returned bone. +1 to Intimidation checks; unsettling to most folk."
   },
   {
@@ -953,14 +755,7 @@
     "premiumLocale": true,
     "id": "theros_e14293b9bb",
     "source_group": "theros",
-    "tags": [
-      "leatherworker",
-      "Clothing",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["leatherworker", "Clothing", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Soft leather sandals oiled with sacred olive. Quiet on stone — advantage on Stealth on tile or marble."
   },
   {
@@ -983,12 +778,7 @@
     "premiumLocale": true,
     "id": "theros_687ef700ef",
     "source_group": "theros",
-    "tags": [
-      "arcane_shop",
-      "Magical Item",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["arcane_shop", "Magical Item", "theros", "premiumLocale"],
     "description": "Milky quartz sphere. Once per day, ask the DM a single yes/no question with 50% truthful answer."
   },
   {
@@ -1011,13 +801,7 @@
     "premiumLocale": true,
     "id": "theros_4f3df733b8",
     "source_group": "theros",
-    "tags": [
-      "arcane_shop",
-      "Magical Item",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["arcane_shop", "Magical Item", "theros", "urbanLocale", "premiumLocale"],
     "description": "Scroll tube woven of moonlit thread. Holds up to 6 scrolls; contents are immune to fire and water damage."
   },
   {
@@ -1040,13 +824,7 @@
     "premiumLocale": true,
     "id": "theros_f9e3da66f3",
     "source_group": "theros",
-    "tags": [
-      "arcane_shop",
-      "Magical Item",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["arcane_shop", "Magical Item", "theros", "urbanLocale", "premiumLocale"],
     "description": "Inked star-chart on goat vellum. Advantage on Survival checks to navigate at night."
   },
   {
@@ -1069,12 +847,7 @@
     "premiumLocale": true,
     "id": "theros_61a3d13209",
     "source_group": "theros",
-    "tags": [
-      "arcane_shop",
-      "Magical Item",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["arcane_shop", "Magical Item", "theros", "premiumLocale"],
     "description": "Lantern that burns no oil — sheds dim starlight in a 20-ft. radius when uncovered. Goes dark in sunlight."
   },
   {
@@ -1097,12 +870,7 @@
     "premiumLocale": true,
     "id": "theros_3642bfd94c",
     "source_group": "theros",
-    "tags": [
-      "arcane_shop",
-      "Magical Item",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["arcane_shop", "Magical Item", "theros", "premiumLocale"],
     "description": "Razor shard of polished obsidian. Catches whispers — advantage on Perception (hearing) for 1 minute when held to the ear."
   },
   {
@@ -1125,13 +893,7 @@
     "premiumLocale": true,
     "id": "theros_0e67792ae8",
     "source_group": "theros",
-    "tags": [
-      "adventuring_supplies_magical_theme",
-      "Magical Item",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["adventuring_supplies_magical_theme", "Magical Item", "theros", "urbanLocale", "premiumLocale"],
     "description": "Crystal pendant veined with starlight. Functions as an arcane focus; grants +1 to spell attack rolls for cantrips only."
   },
   {
@@ -1154,12 +916,7 @@
     "premiumLocale": true,
     "id": "theros_cb62e1cc00",
     "source_group": "theros",
-    "tags": [
-      "jeweler_stonecutter",
-      "Gemstone",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["jeweler_stonecutter", "Gemstone", "theros", "premiumLocale"],
     "description": "Iridescent pearl from the deep trenches. Held in mouth, lets you breathe water for 10 minutes."
   },
   {
@@ -1182,13 +939,7 @@
     "premiumLocale": true,
     "id": "theros_ec68c4f81e",
     "source_group": "theros",
-    "tags": [
-      "jeweler_stonecutter",
-      "Gemstone",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["jeweler_stonecutter", "Gemstone", "theros", "urbanLocale", "premiumLocale"],
     "description": "Single huge amber bead with an insect from the age of Titans. Worth alone in any jeweler's eye."
   },
   {
@@ -1211,12 +962,7 @@
     "premiumLocale": true,
     "id": "theros_f712dcf696",
     "source_group": "theros",
-    "tags": [
-      "jeweler_stonecutter",
-      "Jewelry",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["jeweler_stonecutter", "Jewelry", "theros", "premiumLocale"],
     "description": "Gold ring set with citrine sunburst. Wearer adds +1 to saves vs. fear from undead."
   },
   {
@@ -1239,14 +985,7 @@
     "premiumLocale": true,
     "id": "theros_b270d1395e",
     "source_group": "theros",
-    "tags": [
-      "jeweler_stonecutter",
-      "Jewelry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["jeweler_stonecutter", "Jewelry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Necklace strung with old funerary obols. Cursed reputation — vendors offer 10% less for goods you sell."
   },
   {
@@ -1269,12 +1008,7 @@
     "premiumLocale": true,
     "id": "theros_1f45688aeb",
     "source_group": "theros",
-    "tags": [
-      "high_end_clothing",
-      "Clothing",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["high_end_clothing", "Clothing", "theros", "premiumLocale"],
     "description": "Murex-dyed toga of a Meletian senator. +1 to Persuasion in polite Meletian society."
   },
   {
@@ -1297,13 +1031,7 @@
     "premiumLocale": true,
     "id": "theros_b2e1382790",
     "source_group": "theros",
-    "tags": [
-      "tailor_textiles",
-      "Clothing",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["tailor_textiles", "Clothing", "theros", "urbanLocale", "premiumLocale"],
     "description": "Crimson wool cloak of an Akroan soldier. Resists cold weather; counts as cold-weather gear."
   },
   {
@@ -1326,14 +1054,7 @@
     "premiumLocale": true,
     "id": "theros_cc76b6251c",
     "source_group": "theros",
-    "tags": [
-      "tailor_textiles",
-      "Clothing",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["tailor_textiles", "Clothing", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Living-vine sash from the temple of Karametra. The vine reties itself if cut."
   },
   {
@@ -1356,14 +1077,7 @@
     "premiumLocale": true,
     "id": "theros_934695d9aa",
     "source_group": "theros",
-    "tags": [
-      "market_produce_foods",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["market_produce_foods", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "One jar of brined Setessan olives. Feeds one person one meal; counts as good rations."
   },
   {
@@ -1386,14 +1100,7 @@
     "premiumLocale": true,
     "id": "theros_4c9249bc72",
     "source_group": "theros",
-    "tags": [
-      "market_produce_foods",
-      "Drink",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["market_produce_foods", "Drink", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Amphora of golden honey wine. 6 servings. Sharing a cup grants advantage on the next Persuasion check with a Setessan."
   },
   {
@@ -1416,14 +1123,7 @@
     "premiumLocale": true,
     "id": "theros_a9dcccfd5b",
     "source_group": "theros",
-    "tags": [
-      "market_produce_foods",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["market_produce_foods", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Round loaf studded with sacred figs. One meal; counts as a temple offering."
   },
   {
@@ -1446,14 +1146,7 @@
     "premiumLocale": true,
     "id": "theros_956d72d50d",
     "source_group": "theros",
-    "tags": [
-      "tattoo_shop_inks",
-      "Tattoo",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["tattoo_shop_inks", "Tattoo", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Inked sigil of a chosen god placed on the chest. While devout, the bearer has advantage on saves vs. being charmed by hostile cult magic."
   },
   {
@@ -1476,12 +1169,7 @@
     "premiumLocale": true,
     "id": "theros_2fd9ce84cf",
     "source_group": "theros",
-    "tags": [
-      "shady_dealer_theme",
-      "Contraband",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["shady_dealer_theme", "Contraband", "theros", "premiumLocale"],
     "description": "Black powder ground from Erebos-touched poppy. Sprinkled on a sleeper, they suffer vivid nightmares (no benefit from the rest)."
   },
   {
@@ -1504,13 +1192,7 @@
     "premiumLocale": true,
     "id": "theros_8275da7d57",
     "source_group": "theros",
-    "tags": [
-      "shady_dealer_theme",
-      "Contraband",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["shady_dealer_theme", "Contraband", "theros", "urbanLocale", "premiumLocale"],
     "description": "Counterfeit wax seal of a major polis. Illegal — DC 16 Investigation to spot the forgery."
   },
   {
@@ -1533,14 +1215,7 @@
     "premiumLocale": true,
     "id": "theros_9f786e4e01",
     "source_group": "theros",
-    "tags": [
-      "art_and_games_theme",
-      "Game",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["art_and_games_theme", "Game", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Set of four bone dice carved from Returned finger-knuckles. Lucky in shady company; cursed in temples."
   },
   {
@@ -1563,13 +1238,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_0",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "heals 10d4+20 hp"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "heals 10d4+20 hp"],
     "description": "Restores 10d4+20 hit points when drunk. (DMG very rare healing potion.)"
   },
   {
@@ -1592,13 +1261,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_1",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "haste effect 1 min"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "haste effect 1 min"],
     "description": "Drinker gains the effects of the haste spell for 1 minute. No concentration required."
   },
   {
@@ -1621,13 +1284,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_2",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "fly speed equal to walking 1 hr"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "fly speed equal to walking 1 hr"],
     "description": "Drinker gains a flying speed equal to their walking speed for 1 hour. Must remain conscious."
   },
   {
@@ -1650,13 +1307,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_3",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "+3 weapon for 1 hour"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "+3 weapon for 1 hour"],
     "description": "Coats one slashing or piercing weapon (or 5 pieces of ammunition). For 1 hour the weapon is magical and gains +3 to attack and damage rolls."
   },
   {
@@ -1679,13 +1330,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_4",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "resistance to all damage 1 min"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "resistance to all damage 1 min"],
     "description": "Drinker gains resistance to all damage for 1 minute."
   },
   {
@@ -1708,13 +1353,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_5",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "STR becomes 27 for 1 hour"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "STR becomes 27 for 1 hour"],
     "description": "Drinker's Strength score becomes 27 for 1 hour. No effect if Str is already 27 or higher."
   },
   {
@@ -1737,13 +1376,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_6",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "STR becomes 29 for 1 hour"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "STR becomes 29 for 1 hour"],
     "description": "Drinker's Strength score becomes 29 for 1 hour. No effect if Str is already 29 or higher."
   },
   {
@@ -1766,13 +1399,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_7",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "ethereal plane for 1 hour"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "ethereal plane for 1 hour"],
     "description": "Drinker (or one creature touched) gains the effects of the etherealness spell for 1 hour."
   },
   {
@@ -1795,13 +1422,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_8",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "reduces age by 1d6+6 years"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "reduces age by 1d6+6 years"],
     "description": "Drinker's physical age is reduced by 1d6+6 years (minimum 13). Each subsequent use carries a 10% cumulative chance to age 1d6+6 years instead."
   },
   {
@@ -1824,13 +1445,7 @@
     "premiumLocale": true,
     "id": "theros_vrpotion_9",
     "source_group": "dnd5e_potions",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "very-rare",
-      "dnd5e",
-      "removes exhaustion, max HP regen"
-    ],
+    "tags": ["potion_shop", "Potions", "very-rare", "dnd5e", "removes exhaustion, max HP regen"],
     "description": "Removes any exhaustion the drinker is suffering and cures any disease or poison affecting them. For 24 hours the drinker regains the maximum number of hit points on any Hit Die spent."
   },
   {
@@ -1854,14 +1469,7 @@
     "id": "theros_dfd49bd6ec",
     "source_group": "theros_reagents",
     "description": "Iridescent gland from a phase spider. Component for potions of ethereal or planar travel.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Hydra Tooth (cured)",
@@ -1884,14 +1492,7 @@
     "id": "theros_42d4445357",
     "source_group": "theros_reagents",
     "description": "Cured tooth of a Theros hydra. Used in regenerative tonics and Hydra-blood elixirs.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Cockatrice Feather",
@@ -1914,14 +1515,7 @@
     "id": "theros_0bd3402931",
     "source_group": "theros_reagents",
     "description": "Stiff cockatrice feather, packed in oil. Component for petrification-related elixirs.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Mandrake Root (whole)",
@@ -1944,14 +1538,7 @@
     "id": "theros_beb335b92e",
     "source_group": "theros_reagents",
     "description": "Whole screaming mandrake root, sealed in beeswax. Component for healing and sleep potions.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Wyvern Antitoxin Vial",
@@ -1974,14 +1561,7 @@
     "id": "theros_b7ba7dcffd",
     "source_group": "theros_reagents",
     "description": "Distilled wyvern venom, neutralized. Acts as antitoxin: advantage on saves vs. poison for 1 hour.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Phoenix Down (one tuft)",
@@ -2004,14 +1584,7 @@
     "id": "theros_6998ed905a",
     "source_group": "theros_reagents",
     "description": "Single tuft of phoenix down. Component for high-tier healing potions; warm to the touch.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Basilisk Eye (preserved)",
@@ -2034,14 +1607,7 @@
     "id": "theros_be6e2081b9",
     "source_group": "theros_reagents",
     "description": "One preserved basilisk eye in saline. Component for Medusa-eye drops and petrify-ward elixirs.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Minotaur Horn Shavings",
@@ -2064,14 +1630,7 @@
     "id": "theros_fcccd68bc9",
     "source_group": "theros_reagents",
     "description": "Bag of horn shavings from a felled minotaur. Used in stoneskin and stamina draughts.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Lampad Tear (1 dram)",
@@ -2094,14 +1653,7 @@
     "id": "theros_21e8643f35",
     "source_group": "theros_reagents",
     "description": "Single dram of lampad tear, glowing faintly. Component for Nyx-mist and dream potions.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Sphinx Lash",
@@ -2124,14 +1676,7 @@
     "id": "theros_83788671e1",
     "source_group": "theros_reagents",
     "description": "One eyelash from a Theros sphinx. Used in divination inks and clarity tonics.",
-    "tags": [
-      "potion_shop",
-      "Apothecary Reagent",
-      "theros_reagents",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["potion_shop", "Apothecary Reagent", "theros_reagents", "ruralLocale", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Akroan Hoplite Xiphos",
@@ -2154,13 +1699,7 @@
     "id": "theros_9d3692533a",
     "source_group": "theros_weapons",
     "description": "Short straight bronze sword, the standard Akroan infantry sword. 1d6 slashing, light, finesse.",
-    "tags": [
-      "blacksmith_armory",
-      "Sword",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Sword", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Setessan Crescent Sickle",
@@ -2183,13 +1722,7 @@
     "id": "theros_f63ebd9be9",
     "source_group": "theros_weapons",
     "description": "Curved harvesting sickle. 1d4 slashing, light. Setessan rangers favor it as an off-hand.",
-    "tags": [
-      "blacksmith_armory",
-      "Sickle",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Sickle", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Skola Vale Trident",
@@ -2212,13 +1745,7 @@
     "id": "theros_14f46ce0ab",
     "source_group": "theros_weapons",
     "description": "Three-pronged trident used by Triton-allied warriors. 1d6 piercing (1d8 two-handed), thrown 20/60.",
-    "tags": [
-      "blacksmith_armory",
-      "Trident",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Trident", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Meletian War-pick",
@@ -2241,13 +1768,7 @@
     "id": "theros_4b37ff82cd",
     "source_group": "theros_weapons",
     "description": "Curved war-pick used to punch bronze armor. 1d8 piercing, martial.",
-    "tags": [
-      "blacksmith_armory",
-      "War Pick",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "War Pick", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Phenax Veil-dagger",
@@ -2270,13 +1791,7 @@
     "id": "theros_70b0dc8898",
     "source_group": "theros_weapons",
     "description": "Slim blackened dagger. 1d4 piercing, light, finesse, thrown 20/60. Favored by Phenax cultists.",
-    "tags": [
-      "shady_dealer_theme",
-      "Dagger",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["shady_dealer_theme", "Dagger", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Karametra Throwing Sling",
@@ -2299,13 +1814,7 @@
     "id": "theros_05658e61fd",
     "source_group": "theros_weapons",
     "description": "Setessan leather sling. 1d4 bludgeoning, range 30/120. Cheap and reliable.",
-    "tags": [
-      "fletcher_bowyer",
-      "Sling",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["fletcher_bowyer", "Sling", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Akroan Long Spear (sarissa)",
@@ -2328,13 +1837,7 @@
     "id": "theros_37e43f9c7e",
     "source_group": "theros_weapons",
     "description": "Long phalanx spear. 1d6 piercing (1d8 two-handed), reach. Awkward indoors.",
-    "tags": [
-      "blacksmith_armory",
-      "Spear",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Spear", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Heavy Bronze Mace",
@@ -2357,13 +1860,7 @@
     "id": "theros_815e5f7590",
     "source_group": "theros_weapons",
     "description": "Solid cast-bronze mace. 1d6 bludgeoning, simple. Effective against Returned.",
-    "tags": [
-      "blacksmith_armory",
-      "Mace",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Mace", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Setessan Boar Spear",
@@ -2386,13 +1883,7 @@
     "id": "theros_27e8d85b84",
     "source_group": "theros_weapons",
     "description": "Stout boar spear with a crossbar. 1d6 piercing. Crossbar gives +2 AC against the first charge by a Large+ beast.",
-    "tags": [
-      "fletcher_bowyer",
-      "Spear",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["fletcher_bowyer", "Spear", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Centaur Composite Bow",
@@ -2415,13 +1906,7 @@
     "id": "theros_603deade08",
     "source_group": "theros_weapons",
     "description": "Composite longbow sized for centaur draw weight. 1d8 piercing, range 150/600, two-handed.",
-    "tags": [
-      "fletcher_bowyer",
-      "Longbow",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["fletcher_bowyer", "Longbow", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Triton Coral Trident",
@@ -2444,13 +1929,7 @@
     "id": "theros_0927243935",
     "source_group": "theros_weapons",
     "description": "Carved coral trident used in shallows. 1d8 piercing (two-handed). No disadvantage when attacking underwater.",
-    "tags": [
-      "blacksmith_armory",
-      "Trident",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Trident", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Cyclopean Stone Maul",
@@ -2473,13 +1952,7 @@
     "id": "theros_3d0092a53e",
     "source_group": "theros_weapons",
     "description": "Crude two-handed stone maul. 2d6 bludgeoning, heavy. Requires Str 15 or attacks have disadvantage.",
-    "tags": [
-      "blacksmith_armory",
-      "Maul",
-      "theros_weapons",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Maul", "theros_weapons", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Linothorax Linen Cuirass",
@@ -2502,13 +1975,7 @@
     "id": "theros_2f481fe979",
     "source_group": "theros_armor",
     "description": "Layered linen and resin cuirass. AC 12 + Dex. Light, 8 lb. Common Akroan armor.",
-    "tags": [
-      "blacksmith_armory",
-      "Light Armor",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Light Armor", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Bronze Scale Corselet",
@@ -2531,13 +1998,7 @@
     "id": "theros_36a00dd002",
     "source_group": "theros_armor",
     "description": "Bronze scales on linen. AC 14 + Dex (max 2). 45 lb. Disadvantage on Stealth.",
-    "tags": [
-      "blacksmith_armory",
-      "Medium Armor",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Medium Armor", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Phalanx Bronze Greaves",
@@ -2560,13 +2021,7 @@
     "id": "theros_d38bfb42e8",
     "source_group": "theros_armor",
     "description": "Pair of bronze shin greaves. +1 AC against opportunity attacks made against your legs (DM call).",
-    "tags": [
-      "blacksmith_armory",
-      "Armor Piece",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Armor Piece", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Setessan Hunter's Leathers",
@@ -2589,13 +2044,7 @@
     "id": "theros_3bc5779a50",
     "source_group": "theros_armor",
     "description": "Olive-tanned light armor. AC 11 + Dex. Advantage on Stealth in forest terrain.",
-    "tags": [
-      "leatherworker",
-      "Light Armor",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["leatherworker", "Light Armor", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Leonin Mane-cloak",
@@ -2618,13 +2067,7 @@
     "id": "theros_fb73df509b",
     "source_group": "theros_armor",
     "description": "Cloak with a leonin's mane sewn to the shoulders. +1 to Intimidation against beasts.",
-    "tags": [
-      "leatherworker",
-      "Armor Piece",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["leatherworker", "Armor Piece", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Triton Scale Mail",
@@ -2647,13 +2090,7 @@
     "id": "theros_e061167bd2",
     "source_group": "theros_armor",
     "description": "Scales of pearl-mussel sewn on leather. AC 14 + Dex (max 2). No swim penalty.",
-    "tags": [
-      "blacksmith_armory",
-      "Medium Armor",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Medium Armor", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Plated Hoplite Panoply",
@@ -2676,13 +2113,7 @@
     "id": "theros_a053043d22",
     "source_group": "theros_armor",
     "description": "Full Akroan hoplite plate. AC 16. Disadvantage on Stealth. Str 13 to avoid speed penalty.",
-    "tags": [
-      "blacksmith_armory",
-      "Heavy Armor",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["blacksmith_armory", "Heavy Armor", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Returned-bone Scale",
@@ -2705,13 +2136,7 @@
     "id": "theros_0f2d1d52a4",
     "source_group": "theros_armor",
     "description": "Light scales fashioned from Returned bone. AC 13 + Dex (max 2). Wearer has advantage on saves vs. necrotic damage; deeply taboo.",
-    "tags": [
-      "shady_dealer_theme",
-      "Medium Armor",
-      "theros_armor",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["shady_dealer_theme", "Medium Armor", "theros_armor", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Shortsword +1",
@@ -2734,13 +2159,7 @@
     "id": "theros_ef12dd5d04",
     "source_group": "dnd5e_magic",
     "description": "+1 magic shortsword. 1d6+1 piercing, finesse, light. Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Longsword +1",
@@ -2763,13 +2182,7 @@
     "id": "theros_db0999dc97",
     "source_group": "dnd5e_magic",
     "description": "+1 magic longsword. 1d8+1 slashing (1d10 two-handed). Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Heavy Crossbow +1",
@@ -2792,13 +2205,7 @@
     "id": "theros_f7cd29bbee",
     "source_group": "dnd5e_magic",
     "description": "+1 magic heavy crossbow. 1d10+1 piercing, range 100/400. Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Light Crossbow +2",
@@ -2821,13 +2228,7 @@
     "id": "theros_11e93b783f",
     "source_group": "dnd5e_magic",
     "description": "+2 magic light crossbow. 1d8+2 piercing, range 80/320. Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Akroan Spear +1",
@@ -2850,13 +2251,7 @@
     "id": "theros_5e515a7b59",
     "source_group": "dnd5e_magic",
     "description": "+1 magic spear forged in the Akroan war-temples. 1d6+1 piercing (1d8 two-handed), thrown 20/60.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Trident of the Shoals +2",
@@ -2879,13 +2274,7 @@
     "id": "theros_d52f934409",
     "source_group": "dnd5e_magic",
     "description": "+2 magic trident blessed by Thassa. No disadvantage when attacking underwater. 1d6+2 / 1d8+2 piercing.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Greataxe +1",
@@ -2908,13 +2297,7 @@
     "id": "theros_b7e7e091bf",
     "source_group": "dnd5e_magic",
     "description": "+1 magic greataxe. 1d12+1 slashing, heavy, two-handed. Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Warhammer +2",
@@ -2937,13 +2320,7 @@
     "id": "theros_982128113e",
     "source_group": "dnd5e_magic",
     "description": "+2 magic warhammer. 1d8+2 bludgeoning (1d10 two-handed). Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Quarterstaff +1",
@@ -2966,13 +2343,7 @@
     "id": "theros_7dea7a35b3",
     "source_group": "dnd5e_magic",
     "description": "+1 magic quarterstaff. 1d6+1 bludgeoning (1d8 two-handed). Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Dagger of Phenax +2",
@@ -2995,13 +2366,7 @@
     "id": "theros_e8ead802e1",
     "source_group": "dnd5e_magic",
     "description": "+2 magic dagger of woven shadow. 1d4+2 piercing, finesse, light, thrown 20/60. Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Longbow +1",
@@ -3024,13 +2389,7 @@
     "id": "theros_ef51742d2b",
     "source_group": "dnd5e_magic",
     "description": "+1 magic longbow. 1d8+1 piercing, range 150/600, heavy, two-handed.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Shortbow +2",
@@ -3053,13 +2412,7 @@
     "id": "theros_3ebac9de54",
     "source_group": "dnd5e_magic",
     "description": "+2 magic shortbow. 1d6+2 piercing, range 80/320, two-handed.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Mace of the Sun +1",
@@ -3082,13 +2435,7 @@
     "id": "theros_ee79fff2ec",
     "source_group": "dnd5e_magic",
     "description": "+1 magic mace consecrated to Heliod. 1d6+1 bludgeoning. Sheds bright light in 10 ft. against undead, who have disadvantage on saves vs. it.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Sling of the Hunter +1",
@@ -3111,13 +2458,7 @@
     "id": "theros_d21d25711c",
     "source_group": "dnd5e_magic",
     "description": "+1 magic sling of Nylean make. 1d4+1 bludgeoning, range 30/120. Counts as magical against fiends and beasts.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Greatsword +2",
@@ -3140,13 +2481,7 @@
     "id": "theros_48e0a85163",
     "source_group": "dnd5e_magic",
     "description": "+2 magic greatsword. 2d6+2 slashing, heavy, two-handed. Bonus to attack and damage rolls.",
-    "tags": [
-      "arcane_shop",
-      "Magic Weapon",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Weapon", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Shield +1 (Polis Aegis)",
@@ -3169,13 +2504,7 @@
     "id": "theros_7a92df9a55",
     "source_group": "dnd5e_magic",
     "description": "+1 magic shield. While held, AC increases by an additional +1 beyond a normal shield's +2.",
-    "tags": [
-      "arcane_shop",
-      "Magic Armor",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Armor", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Studded Leather +1",
@@ -3198,13 +2527,7 @@
     "id": "theros_ac272d0b05",
     "source_group": "dnd5e_magic",
     "description": "+1 magic studded leather. AC 12 + Dex + 1.",
-    "tags": [
-      "arcane_shop",
-      "Magic Armor",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Armor", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Chain Shirt +2",
@@ -3227,13 +2550,7 @@
     "id": "theros_5717d23b44",
     "source_group": "dnd5e_magic",
     "description": "+2 magic chain shirt. AC 13 + Dex (max 2) + 2.",
-    "tags": [
-      "arcane_shop",
-      "Magic Armor",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Armor", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Wand of the Web (3 charges)",
@@ -3256,13 +2573,7 @@
     "id": "theros_31fbbcc4d7",
     "source_group": "dnd5e_magic",
     "description": "Wand with 3 charges; expend 1 to cast web (DC 13). Regains 1d3 charges at dawn. Uncommon-tier reskinned for the Skola Vale.",
-    "tags": [
-      "arcane_shop",
-      "Magic Item",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Item", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Cloak of Protection",
@@ -3285,13 +2596,7 @@
     "id": "theros_357aa9205f",
     "source_group": "dnd5e_magic",
     "description": "Rare. While worn, +1 bonus to AC and saving throws. Requires attunement.",
-    "tags": [
-      "arcane_shop",
-      "Magic Item",
-      "dnd5e_magic",
-      "urbanLocale",
-      "premiumLocale"
-    ]
+    "tags": ["arcane_shop", "Magic Item", "dnd5e_magic", "urbanLocale", "premiumLocale"]
   },
   {
     "name": "Crushed Olive Pit",
@@ -3313,14 +2618,7 @@
     "premiumLocale": true,
     "id": "theros_287293db45",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Cheap binding agent for healing salves. Almost every Theros apothecary keeps a sack of these."
   },
   {
@@ -3343,14 +2641,7 @@
     "premiumLocale": true,
     "id": "theros_1d6822001f",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Pale grey petals from the fields near the Underworld's edge. Used in sleep draughts and funerary incense."
   },
   {
@@ -3373,14 +2664,7 @@
     "premiumLocale": true,
     "id": "theros_7612db4f57",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Karametra's sweet binding for tonics. Doubles as a pleasant treat."
   },
   {
@@ -3403,14 +2687,7 @@
     "premiumLocale": true,
     "id": "theros_6aa9487edc",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Earthy reagent for restorative balms. The cypress grows thickest near old battlefields."
   },
   {
@@ -3433,14 +2710,7 @@
     "premiumLocale": true,
     "id": "theros_194edc7667",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Captured at dawn on Thassa's shores. Used in potions of water breathing and calm."
   },
   {
@@ -3463,14 +2733,7 @@
     "premiumLocale": true,
     "id": "theros_01881b8677",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Common kitchen-and-cure herb. Mild antiseptic."
   },
   {
@@ -3493,14 +2756,7 @@
     "premiumLocale": true,
     "id": "theros_1286e2f7c2",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Base for salves and ointments. Smells faintly of the pasture."
   },
   {
@@ -3523,14 +2779,7 @@
     "premiumLocale": true,
     "id": "theros_09d013dd6b",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Sacred to Erebos. Used in necromantic ink and contracts with the dead."
   },
   {
@@ -3553,14 +2802,7 @@
     "premiumLocale": true,
     "id": "theros_90a73dd35c",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "A single iridescent scale, palm-sized. Component for potions of regrowth and resistance to acid."
   },
   {
@@ -3583,14 +2825,7 @@
     "premiumLocale": true,
     "id": "theros_8dad64b9a5",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Thick as a quill. Used in true-seeing draughts and bullseye lanterns."
   },
   {
@@ -3613,14 +2848,7 @@
     "premiumLocale": true,
     "id": "theros_853cfa20b3",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Trimmings ritually given, never taken. Component for potions of charm and revelry."
   },
   {
@@ -3643,14 +2871,7 @@
     "premiumLocale": true,
     "id": "theros_a3d9eb4fd8",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Pure white quill. Levitation and feather-fall reagent."
   },
   {
@@ -3673,14 +2894,7 @@
     "premiumLocale": true,
     "id": "theros_8db4a3011b",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "From a captured spark of Purphoros's forge. Used in potions of fire resistance."
   },
   {
@@ -3703,14 +2917,7 @@
     "premiumLocale": true,
     "id": "theros_2c21b5fd1a",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Petrifaction reagent — handle with leather gloves only."
   },
   {
@@ -3733,14 +2940,7 @@
     "premiumLocale": true,
     "id": "theros_e475a8c7c2",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Sacred-or-blasphemous depending on which priest you ask. Component for potions of false life."
   },
   {
@@ -3763,14 +2963,7 @@
     "premiumLocale": true,
     "id": "theros_a9a59c62d6",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Vanishes if spoken of carelessly. Component for divinations and potions of clairvoyance."
   },
   {
@@ -3793,14 +2986,7 @@
     "premiumLocale": true,
     "id": "theros_9ca34ee150",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Starry vapor caught at the edge of Nyx. Used in any dreaming or prophecy draught."
   },
   {
@@ -3823,14 +3009,7 @@
     "premiumLocale": true,
     "id": "theros_54b11ed777",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Heavy, serrated. Component for potions of regeneration."
   },
   {
@@ -3853,14 +3032,7 @@
     "premiumLocale": true,
     "id": "theros_e49e955c2b",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Still faintly twitching. Petrify-resistance reagent; storage in lead vial mandatory."
   },
   {
@@ -3883,14 +3055,7 @@
     "premiumLocale": true,
     "id": "theros_04187513f0",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Crystallized to a tiny bead. Component for water-walk and purify-water draughts."
   },
   {
@@ -3913,14 +3078,7 @@
     "premiumLocale": true,
     "id": "theros_70b0c771ef",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Reagents",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Reagents", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Three colors braided. Used in elixirs of multi-resistance."
   },
   {
@@ -3943,14 +3101,7 @@
     "premiumLocale": true,
     "id": "theros_878c1bb645",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Restores 2d4+2 HP. Theros apothecaries dye theirs faint red with crushed pomegranate."
   },
   {
@@ -3973,14 +3124,7 @@
     "premiumLocale": true,
     "id": "theros_1f7d829927",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Climb speed equal to walking speed for 1 hour. Common gift for hoplites raiding cliffside temples."
   },
   {
@@ -4003,14 +3147,7 @@
     "premiumLocale": true,
     "id": "theros_a7cce7df7a",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Long rest with one eye open — no exhaustion from short watches. Popular on the roads."
   },
   {
@@ -4033,14 +3170,7 @@
     "premiumLocale": true,
     "id": "theros_a12ecd4694",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Restores 4d4+4 HP. Standard issue for polis hoplite physicians."
   },
   {
@@ -4063,14 +3193,7 @@
     "premiumLocale": true,
     "id": "theros_371df7c979",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Breathe water for 1 hour. Bottled in Meletis with a sliver of coral floating inside."
   },
   {
@@ -4093,14 +3216,7 @@
     "premiumLocale": true,
     "id": "theros_7b1fa7a74c",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Cast Animal Friendship at will for 1 hour. Druidic, with a sprig of wild laurel."
   },
   {
@@ -4123,14 +3239,7 @@
     "premiumLocale": true,
     "id": "theros_575d035d9d",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Strength 21 for 1 hour. Smells faintly of crushed boulders."
   },
   {
@@ -4153,14 +3262,7 @@
     "premiumLocale": true,
     "id": "theros_07d763e32c",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Resistance to fire damage for 1 hour. Forge-priest issue."
   },
   {
@@ -4183,14 +3285,7 @@
     "premiumLocale": true,
     "id": "theros_f47fd0998f",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "10 temp HP + Bless for 1 hour. Sold near every temple of Iroas."
   },
   {
@@ -4213,13 +3308,7 @@
     "premiumLocale": true,
     "id": "theros_3445b592a2",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "urbanLocale", "premiumLocale"],
     "description": "Cast Detect Thoughts on drinking. Banned in three poleis."
   },
   {
@@ -4242,13 +3331,7 @@
     "premiumLocale": true,
     "id": "theros_eb91f4ab74",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "urbanLocale", "premiumLocale"],
     "description": "Restores 8d4+8 HP. Stored under wax seal of Karametra."
   },
   {
@@ -4271,13 +3354,7 @@
     "premiumLocale": true,
     "id": "theros_b1a100dc72",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "urbanLocale", "premiumLocale"],
     "description": "Invisible for 1 hour or until you attack/cast. A favorite of Phenax's faithful."
   },
   {
@@ -4300,13 +3377,7 @@
     "premiumLocale": true,
     "id": "theros_2c980f5eb8",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "urbanLocale", "premiumLocale"],
     "description": "Haste spell effect for 1 minute. Includes the post-effect lethargy — drink wisely."
   },
   {
@@ -4329,13 +3400,7 @@
     "premiumLocale": true,
     "id": "theros_f5af5b6b7f",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "urbanLocale", "premiumLocale"],
     "description": "Gaseous form for 1 hour. Glass phial; broken seal evaporates immediately."
   },
   {
@@ -4358,13 +3423,7 @@
     "premiumLocale": true,
     "id": "theros_b3412eb1e1",
     "source_group": "theros",
-    "tags": [
-      "potion_shop",
-      "Potions",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["potion_shop", "Potions", "theros", "urbanLocale", "premiumLocale"],
     "description": "Strength 23 for 1 hour. Heavy in the hand even before drinking."
   },
   {
@@ -4387,14 +3446,7 @@
     "premiumLocale": true,
     "id": "theros_a364114053",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Daily staple. 2 cp at any village bakery."
   },
   {
@@ -4417,14 +3469,7 @@
     "premiumLocale": true,
     "id": "theros_5c7abd1024",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Drizzled with Karametran honey; keeps for two days."
   },
   {
@@ -4447,14 +3492,7 @@
     "premiumLocale": true,
     "id": "theros_a68a25a6f7",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Sharp and pungent. Travels well wrapped in waxed cloth."
   },
   {
@@ -4477,13 +3515,7 @@
     "premiumLocale": true,
     "id": "theros_35c44ee593",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "urbanLocale", "premiumLocale"],
     "description": "Premium polis fare. A wedding gift among Meletian merchants."
   },
   {
@@ -4506,14 +3538,7 @@
     "premiumLocale": true,
     "id": "theros_7dbe675c53",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Coastal favorite. Two skewers feed one for a day."
   },
   {
@@ -4536,14 +3561,7 @@
     "premiumLocale": true,
     "id": "theros_fae2782c6e",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Brick-firm, will keep three weeks on the road."
   },
   {
@@ -4566,14 +3584,7 @@
     "premiumLocale": true,
     "id": "theros_e02ce50aaf",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Sweet, light, and traveler-friendly."
   },
   {
@@ -4596,14 +3607,7 @@
     "premiumLocale": true,
     "id": "theros_feabc62410",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "In brine. Theran staple — every household has a jar."
   },
   {
@@ -4626,14 +3630,7 @@
     "premiumLocale": true,
     "id": "theros_3a389846eb",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Pitcher of rough red wine, slightly watered. Standard tavern fare."
   },
   {
@@ -4656,13 +3653,7 @@
     "premiumLocale": true,
     "id": "theros_be924eb5fd",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "urbanLocale", "premiumLocale"],
     "description": "Vintage from the temple-slopes. Gift-worthy."
   },
   {
@@ -4685,14 +3676,7 @@
     "premiumLocale": true,
     "id": "theros_d03570b638",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Cooking, lamp fuel, and ritual anointing in one."
   },
   {
@@ -4715,14 +3699,7 @@
     "premiumLocale": true,
     "id": "theros_a0c824a020",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Karametra's gift. Sweetens wine, cures ills, attracts bees."
   },
   {
@@ -4745,14 +3722,7 @@
     "premiumLocale": true,
     "id": "theros_d360137149",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "A coin a piece in season. Sacred fruit of Erebos and oaths."
   },
   {
@@ -4775,14 +3745,7 @@
     "premiumLocale": true,
     "id": "theros_f8fd3f1d79",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Roasted with salt. Traveling rations."
   },
   {
@@ -4805,14 +3768,7 @@
     "premiumLocale": true,
     "id": "theros_4dcd785799",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "5 cp. Preserves meat, blesses thresholds."
   },
   {
@@ -4835,14 +3791,7 @@
     "premiumLocale": true,
     "id": "theros_ecb620e068",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Hardtack, dried meat, dried fruit. Standard PHB pricing."
   },
   {
@@ -4865,14 +3814,7 @@
     "premiumLocale": true,
     "id": "theros_e833e289af",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Seven days of travel food, packed in oilcloth."
   },
   {
@@ -4895,14 +3837,7 @@
     "premiumLocale": true,
     "id": "theros_819622f7c9",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Whatever the morning boats brought in. Eat today."
   },
   {
@@ -4925,14 +3860,7 @@
     "premiumLocale": true,
     "id": "theros_edcdea9ce5",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "A clucking copper. Three eat for a day from one bird."
   },
   {
@@ -4955,14 +3883,7 @@
     "premiumLocale": true,
     "id": "theros_49d4a7305f",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Walks itself to your table. Cheap protein for a small party."
   },
   {
@@ -4985,14 +3906,7 @@
     "premiumLocale": true,
     "id": "theros_3445565603",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "A whole side of salted mutton. Feeds 10 for a week."
   },
   {
@@ -5015,14 +3929,7 @@
     "premiumLocale": true,
     "id": "theros_253cab9c9d",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Indestructible. Soldiers' fare."
   },
   {
@@ -5045,14 +3952,7 @@
     "premiumLocale": true,
     "id": "theros_bfea5c469d",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Spiced with thyme and oregano. Theros polis specialty."
   },
   {
@@ -5075,13 +3975,7 @@
     "premiumLocale": true,
     "id": "theros_41388e7c85",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "urbanLocale", "premiumLocale"],
     "description": "Fermented fish sauce. Polis cooks swear by it; villagers find it foul."
   },
   {
@@ -5104,14 +3998,7 @@
     "premiumLocale": true,
     "id": "theros_b4136c0b22",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Tart and cool. Eaten with honey at breakfast."
   },
   {
@@ -5134,14 +4021,7 @@
     "premiumLocale": true,
     "id": "theros_8c0dfc6838",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Brine-cured for a year. Pairs with everything."
   },
   {
@@ -5164,14 +4044,7 @@
     "premiumLocale": true,
     "id": "theros_3d39d1bc29",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Bulk grain. A bushel feeds a small family a week."
   },
   {
@@ -5194,14 +4067,7 @@
     "premiumLocale": true,
     "id": "theros_2d206bf9be",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Heavier and cheaper than wheat. Rural staple."
   },
   {
@@ -5224,14 +4090,7 @@
     "premiumLocale": true,
     "id": "theros_8d48034f88",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Cheap protein. Will keep a year if dry."
   },
   {
@@ -5254,14 +4113,7 @@
     "premiumLocale": true,
     "id": "theros_75227b4590",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Honey, pollen, ground grain — concentrated traveler's food. Three bites is a meal."
   },
   {
@@ -5284,14 +4136,7 @@
     "premiumLocale": true,
     "id": "theros_e1bee8d8dc",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Heavy three-legged pot for the hearth."
   },
   {
@@ -5314,14 +4159,7 @@
     "premiumLocale": true,
     "id": "theros_7b51bdb469",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Polis kitchens use these for everything from fish to flatbread."
   },
   {
@@ -5344,14 +4182,7 @@
     "premiumLocale": true,
     "id": "theros_144f2c1bc5",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Tin cup, plate, and utensil. PHB standard."
   },
   {
@@ -5374,14 +4205,7 @@
     "premiumLocale": true,
     "id": "theros_8c3253c361",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Holds 4 pints. Buy filled."
   },
   {
@@ -5404,14 +4228,7 @@
     "premiumLocale": true,
     "id": "theros_a2179f655a",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Cast bronze; lasts a lifetime."
   },
   {
@@ -5434,14 +4251,7 @@
     "premiumLocale": true,
     "id": "theros_7792e063b8",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Three blades on a roll. Cook's kit."
   },
   {
@@ -5464,14 +4274,7 @@
     "premiumLocale": true,
     "id": "theros_57382055b1",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "For grinding salt, spices, and grain."
   },
   {
@@ -5494,14 +4297,7 @@
     "premiumLocale": true,
     "id": "theros_2fa0b7eb9d",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Folds flat for travel. Holds a pot over a campfire."
   },
   {
@@ -5524,14 +4320,7 @@
     "premiumLocale": true,
     "id": "theros_e30442f77b",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Carved by village artisans."
   },
   {
@@ -5554,14 +4343,7 @@
     "premiumLocale": true,
     "id": "theros_4c442a83a3",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Standard storage for oil, wine, or grain."
   },
   {
@@ -5584,13 +4366,7 @@
     "premiumLocale": true,
     "id": "theros_39b0e8f157",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food utensils",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food utensils", "theros", "urbanLocale", "premiumLocale"],
     "description": "Portable cooking brazier. Polis market staple."
   },
   {
@@ -5613,13 +4389,7 @@
     "premiumLocale": true,
     "id": "theros_bf94c71685",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "urbanLocale", "premiumLocale"],
     "description": "Coriander, oregano, cumin, mountain saffron. Polis cooks pay dearly."
   },
   {
@@ -5642,14 +4412,7 @@
     "premiumLocale": true,
     "id": "theros_ec4e029f36",
     "source_group": "theros",
-    "tags": [
-      "food_market",
-      "Food",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["food_market", "Food", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Whole garlic slow-cooked in olive oil. Keeps a season; spreads on bread."
   },
   {
@@ -5672,14 +4435,7 @@
     "premiumLocale": true,
     "id": "theros_4b0998410f",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Sure-footed. Carries 420 lb. The villager's friend."
   },
   {
@@ -5702,14 +4458,7 @@
     "premiumLocale": true,
     "id": "theros_b13822c247",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Slower than a mule but eats less. Carries 420 lb."
   },
   {
@@ -5732,14 +4481,7 @@
     "premiumLocale": true,
     "id": "theros_08ac960b04",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Pulls plow or wagon. Slow but tireless."
   },
   {
@@ -5762,14 +4504,7 @@
     "premiumLocale": true,
     "id": "theros_bd4b4c1350",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Carries 225 lb. Good for hill villages and small riders."
   },
   {
@@ -5792,14 +4527,7 @@
     "premiumLocale": true,
     "id": "theros_0249c147e2",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Pulls heavy loads. Polis wagon-trains run on these."
   },
   {
@@ -5822,14 +4550,7 @@
     "premiumLocale": true,
     "id": "theros_6b14f56104",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Standard mount. Trots all day if cared for."
   },
   {
@@ -5852,12 +4573,7 @@
     "premiumLocale": true,
     "id": "theros_287a9b1cd7",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "premiumLocale"],
     "description": "Trained for combat. Hoplite cavalry standard. Premium markets only."
   },
   {
@@ -5880,13 +4596,7 @@
     "premiumLocale": true,
     "id": "theros_2f44d38148",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "urbanLocale", "premiumLocale"],
     "description": "Imported from Akros's far trade. Drinks once a week."
   },
   {
@@ -5909,13 +4619,7 @@
     "premiumLocale": true,
     "id": "theros_cefca27cff",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "ruralLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "ruralLocale", "premiumLocale"],
     "description": "Sacred to Nylea. Carries 350 lb, faster than a horse in forest. Sale taboo in some villages."
   },
   {
@@ -5938,13 +4642,7 @@
     "premiumLocale": true,
     "id": "theros_7aad8f5adb",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "urbanLocale", "premiumLocale"],
     "description": "Centaurs are people, not mounts. This stall posts contracts with centaur scouts willing to bear gear — typical fee 1 gp/day."
   },
   {
@@ -5967,12 +4665,7 @@
     "premiumLocale": true,
     "id": "theros_ea33780a29",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "premiumLocale"],
     "description": "Half-bull, half-lion, sky-blessed. Only one polis breeder licensed to sell."
   },
   {
@@ -5995,12 +4688,7 @@
     "premiumLocale": true,
     "id": "theros_480bac52f2",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Mounts & Pack",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Mounts & Pack", "theros", "premiumLocale"],
     "description": "Sale requires a writ from a temple of Heliod. Most stables only have one for show."
   },
   {
@@ -6023,14 +4711,7 @@
     "premiumLocale": true,
     "id": "theros_786d2b49ca",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Two wheels, one ox or pony. Carries 200 lb."
   },
   {
@@ -6053,14 +4734,7 @@
     "premiumLocale": true,
     "id": "theros_a87805e74f",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Four wheels, two-horse team. Carries 600 lb."
   },
   {
@@ -6083,13 +4757,7 @@
     "premiumLocale": true,
     "id": "theros_78acc67afc",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "urbanLocale", "premiumLocale"],
     "description": "Enclosed, suspension. Polis-noble transport."
   },
   {
@@ -6112,13 +4780,7 @@
     "premiumLocale": true,
     "id": "theros_11e654f9be",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "urbanLocale", "premiumLocale"],
     "description": "Bronze-rimmed wheels, hoplite-style. Banned inside many polis walls."
   },
   {
@@ -6141,14 +4803,7 @@
     "premiumLocale": true,
     "id": "theros_aa88c6fb8f",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "For snowy passes north of Akros."
   },
   {
@@ -6171,14 +4826,7 @@
     "premiumLocale": true,
     "id": "theros_bc7ad75dfd",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Coastal villages use these by the dozen."
   },
   {
@@ -6201,14 +4849,7 @@
     "premiumLocale": true,
     "id": "theros_7f03b022b4",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Single-mast, two crew. Hops between islands."
   },
   {
@@ -6231,12 +4872,7 @@
     "premiumLocale": true,
     "id": "theros_bc888f11bf",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "premiumLocale"],
     "description": "Twenty-oared. Polis charters only."
   },
   {
@@ -6259,14 +4895,7 @@
     "premiumLocale": true,
     "id": "theros_0fdd6e487a",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Standard leather saddle for any horse or pony."
   },
   {
@@ -6289,14 +4918,7 @@
     "premiumLocale": true,
     "id": "theros_6b467d42bf",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Higher cantle, holds a rider on through a charge."
   },
   {
@@ -6319,14 +4941,7 @@
     "premiumLocale": true,
     "id": "theros_d9ff3d617b",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Straps for mules and donkeys."
   },
   {
@@ -6349,13 +4964,7 @@
     "premiumLocale": true,
     "id": "theros_3748983e8c",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "urbanLocale", "premiumLocale"],
     "description": "Specially shaped for winged or unusual mounts."
   },
   {
@@ -6378,14 +4987,7 @@
     "premiumLocale": true,
     "id": "theros_eb77d891fb",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Standard tack."
   },
   {
@@ -6408,14 +5010,7 @@
     "premiumLocale": true,
     "id": "theros_558ee5b48e",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Holds 30 lb per side."
   },
   {
@@ -6438,14 +5033,7 @@
     "premiumLocale": true,
     "id": "theros_894f65c243",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "x4 base saddle cost rule of thumb. Light protection."
   },
   {
@@ -6468,13 +5056,7 @@
     "premiumLocale": true,
     "id": "theros_0cbc8111f8",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "urbanLocale", "premiumLocale"],
     "description": "Polis cavalry standard. Heavy and loud."
   },
   {
@@ -6497,14 +5079,7 @@
     "premiumLocale": true,
     "id": "theros_dc01195a59",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "5 cp. Hay and grain for one beast."
   },
   {
@@ -6527,14 +5102,7 @@
     "premiumLocale": true,
     "id": "theros_cbc79688de",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Polis stable, watered and rubbed down."
   },
   {
@@ -6557,14 +5125,7 @@
     "premiumLocale": true,
     "id": "theros_b53a9f7a12",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "One hoplite escort. Per person, per day."
   },
   {
@@ -6587,14 +5148,7 @@
     "premiumLocale": true,
     "id": "theros_9953ee41bd",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Vehicles",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Vehicles", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Always carry one on long journeys."
   },
   {
@@ -6617,14 +5171,7 @@
     "premiumLocale": true,
     "id": "theros_0cfe10f1b7",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Cracks loud. PHB simple weapon."
   },
   {
@@ -6647,14 +5194,7 @@
     "premiumLocale": true,
     "id": "theros_340aa64cfd",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "1 sp. For driving stubborn oxen."
   },
   {
@@ -6677,14 +5217,7 @@
     "premiumLocale": true,
     "id": "theros_405f3ad4e5",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Basic care kit. Lasts a season."
   },
   {
@@ -6707,14 +5240,7 @@
     "premiumLocale": true,
     "id": "theros_1bad268983",
     "source_group": "theros",
-    "tags": [
-      "transportation",
-      "Tack",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["transportation", "Tack", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Wool blanket sized for a horse."
   },
   {
@@ -6737,14 +5263,7 @@
     "premiumLocale": true,
     "id": "theros_efb530ca6d",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Theros peregrine falcon. Pinpoint stoop and reliable recall. The hoplite scout's eye in the sky."
   },
   {
@@ -6767,13 +5286,7 @@
     "premiumLocale": true,
     "id": "theros_c8091e6f6d",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "urbanLocale", "premiumLocale"],
     "description": "Sacred to Kruphix; rare on the market. Carries small letters by night."
   },
   {
@@ -6796,12 +5309,7 @@
     "premiumLocale": true,
     "id": "theros_2628a2b145",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "premiumLocale"],
     "description": "Golden eagle from the high crags. Hunts goats, attacks wolves. Polis-issue only."
   },
   {
@@ -6824,12 +5332,7 @@
     "premiumLocale": true,
     "id": "theros_ae6ca615a7",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "premiumLocale"],
     "description": "Treated as falconry only in jest — a fledgling pegasus, not for hunting. Temple-licensed sale only."
   },
   {
@@ -6852,14 +5355,7 @@
     "premiumLocale": true,
     "id": "theros_d5484a0f42",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Thick leather. Saves the wrist from talons."
   },
   {
@@ -6882,14 +5378,7 @@
     "premiumLocale": true,
     "id": "theros_6c07d97cbd",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Calms the bird in transit. Embroidered ones go for double."
   },
   {
@@ -6912,14 +5401,7 @@
     "premiumLocale": true,
     "id": "theros_a3b982a81b",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Folds for travel. T-shape with a padded top."
   },
   {
@@ -6942,14 +5424,7 @@
     "premiumLocale": true,
     "id": "theros_1eb8ac566e",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Stationary stand. Polis household fixture."
   },
   {
@@ -6972,14 +5447,7 @@
     "premiumLocale": true,
     "id": "theros_da21e2aaae",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Leather straps and small brass bells. Helps locate the bird on the wing."
   },
   {
@@ -7002,14 +5470,7 @@
     "premiumLocale": true,
     "id": "theros_05c413fa34",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Feathered weight on a cord. For recall training."
   },
   {
@@ -7032,14 +5493,7 @@
     "premiumLocale": true,
     "id": "theros_b427c11a2c",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "For small birds. Wicker with a bronze hinge."
   },
   {
@@ -7062,13 +5516,7 @@
     "premiumLocale": true,
     "id": "theros_ee80fb405a",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "urbanLocale", "premiumLocale"],
     "description": "Brass and olive-wood. A status symbol."
   },
   {
@@ -7091,14 +5539,7 @@
     "premiumLocale": true,
     "id": "theros_e44b341ae9",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "5 sp. Fresh prey for a single falcon for a week."
   },
   {
@@ -7121,14 +5562,7 @@
     "premiumLocale": true,
     "id": "theros_3e75add0b0",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Travel feed. Keeps a falcon healthy for two weeks."
   },
   {
@@ -7151,14 +5585,7 @@
     "premiumLocale": true,
     "id": "theros_7dea1f9a10",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "ruralLocale", "urbanLocale", "premiumLocale"],
     "description": "Three-tone bronze. Standard recall signal."
   },
   {
@@ -7181,13 +5608,7 @@
     "premiumLocale": true,
     "id": "theros_e3063dd458",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "urbanLocale", "premiumLocale"],
     "description": "Faintly enchanted bronze bell. Rings in the falconer's ear when the bird is in distress, up to 1 mile."
   },
   {
@@ -7210,13 +5631,7 @@
     "premiumLocale": true,
     "id": "theros_57a047a52c",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "urbanLocale", "premiumLocale"],
     "description": "A polis scribe's guide. Grants advantage on Animal Handling checks with raptors after one week of study."
   },
   {
@@ -7239,13 +5654,7 @@
     "premiumLocale": true,
     "id": "theros_340d2ecb74",
     "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "urbanLocale",
-      "premiumLocale"
-    ],
+    "tags": ["falconry", "Falconry", "theros", "urbanLocale", "premiumLocale"],
     "description": "Required in Meletis to keep a hunting bird inside the walls. Annual fee."
   }
 ]
