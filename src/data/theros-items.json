@@ -7219,22 +7219,6 @@
     ],
     "description": "A polis scribe's guide. Grants advantage on Animal Handling checks with raptors after one week of study."
   },
-    "limitedStock": true,
-    "ruralLocale": true,
-    "urbanLocale": true,
-    "premiumLocale": true,
-    "id": "theros_f3062abdd6",
-    "source_group": "theros",
-    "tags": [
-      "falconry",
-      "Falconry",
-      "theros",
-      "ruralLocale",
-      "urbanLocale",
-      "premiumLocale"
-    ],
-    "description": "Will hatch in 1d4 weeks if kept warm. 50% chance of a viable hunting bird."
-  },
   {
     "name": "Bird-keeper's License (polis)",
     "category": "Falconry",
